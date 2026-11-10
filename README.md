@@ -2,14 +2,14 @@
 
 
 ## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
-### Project Description:
 
+### Project Title or Name of the Application	: PyChem: Learn to balance chemical equations.
+### Section			   	      : 9 - Lithium
+### Group Members			    : LIBARIOS, Yezhequille Alea C., NISPEROS, Ma. Andrea Charlize B., SALINAS, Sebastian Mathieu T.
+### Date (Proposal Date)  : Nov 5, 2026
+
+### Project Description:
+This project aims to develop an educational study tool that lets users combine virtual atoms to build stable molecules and balance simple chemical reactions. We will define an Atom class (storing atomic number, symbol, and valence electrons) and a Molecule class that validates whether bonded atoms form a stable compound.
 - A brief summary of the project description and the need for it.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
