@@ -6,7 +6,7 @@
 ### Project Title or Name of the Application	: PyChem: Learn to balance chemical equations.
 ### Section			   	      : 9 - Lithium
 ### Group Members			    : LIBARIOS, Yezhequille Alea C., NISPEROS, Ma. Andrea Charlize B., SALINAS, Sebastian Mathieu T.
-### Date (Proposal Date)  : Nov 5, 2026
+### Date (Proposal Date)  : 
 
 ### Project Description:
 This project aims to develop an educational study tool that lets users combine virtual atoms to build stable molecules and balance simple chemical reactions. We will define an Atom class (storing atomic number, symbol, and valence electrons) and a Molecule class that validates whether bonded atoms form a stable compound.
@@ -26,8 +26,8 @@ This project aims to develop an educational study tool that lets users combine v
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
+- Objective 1: Help students learn how to balance chemical equations
+- Objective 2: Reinforce chemistry concepts like covalent/ionic bonding and conservation of mass
 - Objective n:
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
