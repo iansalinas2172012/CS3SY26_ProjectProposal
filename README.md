@@ -17,10 +17,14 @@ This project is an interactive Chemistry Study Tool designed to help learners co
 
 ### Goals:
 
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
+The long-term goal of this project is to bridge the gap between abstract chemical theory and practical intuition, empowering students to master foundational chemistry concepts independently and improve overall STEM retention. Over time, this interactive study tool aims to reduce student anxiety around chemical formulas and stoichiometry by replacing static memorization with active experimentation. By fostering strong conceptual fluency early in a student's academic journey, the application will better prepare learners for advanced science coursework and provide educators with a reliable, accessible teaching aid that promotes self-paced discovery in both classroom and remote learning environments.
 
-- Objective 1: Help students learn how to balance chemical equations
-- Objective 2: Reinforce chemistry concepts like covalent/ionic bonding and conservation of mass
-- Objective n:
+
+Objective 1: Build an Interactive Bonding Sandbox: Implement the Atom and Molecule classes to let users combine elements and receive immediate, rule-based feedback on duet and octet stability.
+
+Objective 2: Develop a Real-Time Reaction Balancer: Create the Reaction module to visually track atom counts across reactants and products, reinforcing the Law of Conservation of Mass through instant validation.
+
+Objective 3.: Design a Low-Stakes Learning Interface: Connect the core chemistry logic to an intuitive user interface via the StudyToolController, encouraging students to test hypotheses freely and learn from mistakes without penalty.
+
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
