@@ -9,14 +9,7 @@
 ### Date (Proposal Date)  : 
 
 ### Project Description:
-This project aims to develop an educational study tool that lets users combine virtual atoms to build stable molecules and balance simple chemical reactions. We will define an Atom class (storing atomic number, symbol, and valence electrons) and a Molecule class that validates whether bonded atoms form a stable compound.
-- A brief summary of the project description and the need for it.
-
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
-
-- Include the description as well of your target demographics as the user of your application. 
-
-- The description is then followed by the class diagram, depicting clearly what was described.
+This project is an interactive Chemistry Study Tool designed to help learners construct virtual molecules and balance chemical equations. Many students struggle with abstract chemical bonding rules, such as the octet rule, and the trial-and-error nature of balancing reactions on paper. By providing immediate, rule-based feedback on molecular stability and atomic conservation, this application bridges the gap between theoretical textbook concepts and hands-on practice.
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
