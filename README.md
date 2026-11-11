@@ -9,7 +9,15 @@
 ### Date (Proposal Date)  : 
 
 ### Project Description:
-This project is an interactive Chemistry Study Tool designed to help learners construct virtual molecules and balance chemical equations. Many students struggle with abstract chemical bonding rules, such as the octet rule, and the trial-and-error nature of balancing reactions on paper. By providing immediate, rule-based feedback on molecular stability and atomic conservation, this application bridges the gap between theoretical textbook concepts and hands-on practice.
+This project creates an interactive chemistry study tool designed for high school and introductory college students who struggle with abstract chemical bonding and reaction balancing concepts. By letting learners combine virtual elements into compounds and test equations, the software provides immediate visual feedback and verified chemical formulas as expected outputs.
+
+System Components & Class Interactions:
+
+Atom Class. Stores core elemental data including atomicNumber, symbol, and valenceElectrons. Its canBond() and getAvailableBonds() methods calculate how many covalent or ionic connections an element can still form.
+
+Molecule Class. Aggregates multiple Atom objects into a bondedAtoms list and tracks connections via bondCount. It interacts directly with Atom methods inside addAtom() and isStable() to apply the octet rule and generate a string output via getFormula().
+
+ReactionBalancer Class. Manages lists of reactants and products composed of Molecule instances. It uses checkConservation() to compare atom counts across both sides and balanceEquation() to output the final stoichiometric coefficients.
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
@@ -17,7 +25,7 @@ This project is an interactive Chemistry Study Tool designed to help learners co
 
 ### Goals:
 
-The long-term goal of this project is to bridge the gap between abstract chemical theory and practical intuition, empowering students to master foundational chemistry concepts independently and improve overall STEM retention. Over time, this interactive study tool aims to reduce student anxiety around chemical formulas and stoichiometry by replacing static memorization with active experimentation. By fostering strong conceptual fluency early in a student's academic journey, the application will better prepare learners for advanced science coursework and provide educators with a reliable, accessible teaching aid that promotes self-paced discovery in both classroom and remote learning environments.
+This project ultimately aims to help students understand the theory behind chemistry, allowing them to independently understand basic concepts of chemistry and therefore increase retention within STEM subjects. Students will become more confident when using chemical formulae and balancing equations due to the interactive nature of this study aid. This will give students a good understanding at the beginning of their studies, preparing them for higher science courses. The application can be used as a helpful teaching aid by teachers so that they can easily teach their students about chemistry.
 
 
 Objective 1: Build an Interactive Bonding Sandbox: Implement the Atom and Molecule classes to let users combine elements and receive immediate, rule-based feedback on duet and octet stability.
