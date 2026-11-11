@@ -9,7 +9,7 @@
 ### Date (Proposal Date)  : 
 
 ### Project Description:
-This project creates an interactive chemistry study tool designed for high school and introductory college students who struggle with abstract chemical bonding and reaction balancing concepts. By letting learners combine virtual elements into compounds and test equations, the software provides immediate visual feedback and verified chemical formulas as expected outputs.
+This project creates an interactive chemistry study tool designed for high school Chemistry students as a review material to those that want to improve their knowledge on chemical reactions. By letting learners combine virtual elements into compounds and test equations, the software provides immediate visual feedback and verified chemical formulas as expected outputs.
 
 System Components & Class Interactions:
 
@@ -25,7 +25,7 @@ ReactionBalancer Class. Manages lists of reactants and products composed of Mole
 
 ### Goals:
 
-This project ultimately aims to help students understand the theory behind chemistry, allowing them to independently understand basic concepts of chemistry and therefore increase retention within STEM subjects. Students will become more confident when using chemical formulae and balancing equations due to the interactive nature of this study aid. This will give students a good understanding at the beginning of their studies, preparing them for higher science courses. The application can be used as a helpful teaching aid by teachers so that they can easily teach their students about chemistry.
+This project ultimately aims to help students understand the theory behind chemistry, allowing them to independently understand basic concepts of chemistry and therefore increase retention within STEM subjects. Students will become more confident when using chemical formulas and balancing equations due to the interactive nature of this study aid. This will give students a good understanding at the beginning of their studies, preparing them for higher science courses. The application can be used as a helpful teaching aid by teachers so that they can easily teach their students about chemistry.
 
 
 Objective 1: Help students learn how to balance chemical equations
