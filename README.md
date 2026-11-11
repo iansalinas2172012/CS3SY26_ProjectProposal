@@ -19,9 +19,7 @@ Molecule Class. Aggregates multiple Atom objects into a bondedAtoms list and tra
 
 ReactionBalancer Class. Manages lists of reactants and products composed of Molecule instances. It uses checkConservation() to compare atom counts across both sides and balanceEquation() to output the final stoichiometric coefficients.
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
-
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
+UML Diagram:
 
 ### Goals:
 
