@@ -31,4 +31,5 @@ Objective 1: Help students learn how to balance chemical equations
 Objective 2: Reinforce chemistry concepts like covalent/ionic bonding and conservation of mass
 
 Objective n: 
+
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
