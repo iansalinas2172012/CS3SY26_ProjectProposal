@@ -28,11 +28,9 @@ ReactionBalancer Class. Manages lists of reactants and products composed of Mole
 This project ultimately aims to help students understand the theory behind chemistry, allowing them to independently understand basic concepts of chemistry and therefore increase retention within STEM subjects. Students will become more confident when using chemical formulae and balancing equations due to the interactive nature of this study aid. This will give students a good understanding at the beginning of their studies, preparing them for higher science courses. The application can be used as a helpful teaching aid by teachers so that they can easily teach their students about chemistry.
 
 
-Objective 1: Build an Interactive Bonding Sandbox: Implement the Atom and Molecule classes to let users combine elements and receive immediate, rule-based feedback on duet and octet stability.
+Objective 1: Help students learn how to balance chemical equations
 
-Objective 2: Develop a Real-Time Reaction Balancer: Create the Reaction module to visually track atom counts across reactants and products, reinforcing the Law of Conservation of Mass through instant validation.
+Objective 2: Reinforce chemistry concepts like covalent/ionic bonding and conservation of mass
 
-Objective 3.: Design a Low-Stakes Learning Interface: Connect the core chemistry logic to an intuitive user interface via the StudyToolController, encouraging students to test hypotheses freely and learn from mistakes without penalty.
-
-
+Objective n: 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
