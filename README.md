@@ -13,7 +13,15 @@ This project creates an interactive chemistry study tool designed for high schoo
 
 System Components & Class Interactions:
 
-Atom Class. Stores core elemental data including atomicNumber, symbol, and valenceElectrons. Its canBond() and getAvailableBonds() methods calculate how many covalent or ionic connections an element can still form.
+Atom Class.(Parent) Stores core elemental data including atomicNumber, symbol, and valenceElectrons. Its canBond() and getAvailableBonds() methods calculate how many covalent or ionic connections an element can still form.
+
+Metal Class (Subclass of Atom). Inherits from Atom and represents metallic elements that lose electrons when bonding. It overrides get_valenceElectrons() to return donatable outer electrons, and implements canBond() and getAvailableBonds() to calculate positive ionic bonding capacity.
+
+NonMetal Class (Subclass of Atom). Inherits from Atom and represents non-metallic elements that gain or share electrons. It overrides get_valenceElectrons() to return outer electrons available for sharing or receiving, and implements canBond() and getAvailableBonds() based on how many electrons are needed to satisfy the octet or duet rule.
+
+Metalloid Class (Subclass of Atom). Inherits from Atom and represents borderline elements with intermediate bonding behavior. It overrides get_valenceElectrons(), canBond(), and getAvailableBonds() to allow flexible covalent electron sharing up to a full valence shell.
+
+NobleGas Class (Subclass of Atom). Inherits from Atom and represents inert Group 18 elements with full valence shells. It overrides get_valenceElectrons() to return a complete octet or duet, while implementing canBond() to always return False and getAvailableBonds() to return 0 to enforce chemical stability restrictions. 
 
 Molecule Class. Aggregates multiple Atom objects into a bondedAtoms list and tracks connections via bondCount. It interacts directly with Atom methods inside addAtom() and isStable() to apply the octet rule and generate a string output via getFormula().
 
