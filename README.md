@@ -9,7 +9,7 @@
 ### Date (Proposal Date)  : 
 
 ### Project Description:
-This project creates an interactive chemistry study tool designed for high school Chemistry students as a review material to those that want to improve their knowledge on chemical reactions. By letting learners combine virtual elements into compounds and test equations, the software provides immediate visual feedback and verified chemical formulas as expected outputs.
+This project develops an interactive chemistry study application designed specifically as a digital review tool for high school chemistry students. These introductory learners need accessible, hands-on practice to master foundational chemical reactions, prepare for assessments, and build confidence with core concepts. Currently, many students struggle to grasp abstract principles such as valence electrons, the octet rule, and the conservation of mass. This software allows students to virtually combine elements into compounds and test chemical equations. By delivering instant visual feedback alongside verified chemical formulas, the application helps learners identify and correct misconceptions immediately, making independent study both engaging and effective. 
 
 System Components & Class Interactions:
 
