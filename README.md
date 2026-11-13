@@ -43,6 +43,6 @@ Objective 1: Help students learn how to balance chemical equations
 
 Objective 2: Reinforce chemistry concepts like covalent/ionic bonding and conservation of mass
 
-Objective n: 
+Objective 3: Help students distinguish how metals, non-metals, metalloids, and noble gases behave differently when forming ionic and covalent bonds.
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
