@@ -6,7 +6,7 @@
 ### Project Title or Name of the Application	: PyChem: Learn to balance chemical equations.
 ### Section			   	      : 9 - Lithium
 ### Group Members			    : LIBARIOS, Yezhequille Alea C., NISPEROS, Ma. Andrea Charlize B., SALINAS, Sebastian Mathieu T.
-### Date (Proposal Date)  : 
+### Date (Proposal Date)  : November 13 2026
 
 ### Project Description:
 This project develops an interactive chemistry study application designed specifically as a digital review tool for high school chemistry students. These introductory learners need accessible, hands-on practice to master foundational chemical reactions, prepare for assessments, and build confidence with core concepts. Currently, many students struggle to grasp abstract principles such as valence electrons, the octet rule, and the conservation of mass. This software allows students to virtually combine elements into compounds and test chemical equations. By delivering instant visual feedback alongside verified chemical formulas, the application helps learners identify and correct misconceptions immediately, making independent study both engaging and effective. 
