@@ -33,6 +33,7 @@ ReactionBalancer Class. Manages lists of reactants and products composed of Mole
 
 
 UML Diagram:
+
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9562d8ce-f3ba-4d5f-9f33-0158a2843e87" />
 
 
