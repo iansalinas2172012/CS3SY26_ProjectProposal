@@ -25,7 +25,12 @@ NobleGas Class (Subclass of Atom). Inherits from Atom and represents inert Group
 
 Molecule Class. Aggregates multiple Atom objects into a bondedAtoms list and tracks connections via bondCount. It interacts directly with Atom methods inside addAtom() and isStable() to apply the octet rule and generate a string output via getFormula().
 
+IonicBond Class / IonicMolecule (Subclass of bond). Inherits from Molecule and models compounds formed through electron transfer. It overrides addAtom() and isStable() to restrict bonding strictly to combinations of Metal and NonMetal instances whose net ionic charges balance to zero.
+
+CovalentBond Class / CovalentMolecule (Subclass of bond). Inherits from Molecule and models compounds formed through electron sharing. It overrides addAtom() and isStable() to restrict bonding strictly to NonMetal and Metalloid instances where all shared electron pairs satisfy the octet or duet rule. 
+
 ReactionBalancer Class. Manages lists of reactants and products composed of Molecule instances. It uses checkConservation() to compare atom counts across both sides and balanceEquation() to output the final stoichiometric coefficients.
+
 
 UML Diagram:
 
